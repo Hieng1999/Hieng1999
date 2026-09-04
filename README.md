@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Hieng 👋
 
-<!--
-**Hieng1999/Hieng1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small, practical tools — mostly to make things more accessible for the people around me.
 
-Here are some ideas to get you started:
+#### 🎬 Lao Movie Subtitles
+There are basically **no Lao subtitles anywhere** — the big subtitle sites don't even support Lao
+as a language. So I'm making them. I built an AI-assisted pipeline (Google **Gemini** + Meta **NLLB**,
+with a curated glossary and per-character pronoun rules) that turns English subtitles into natural,
+watch-ready **Lao** — so people who aren't comfortable in English can still enjoy the movie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **[lao-subtitles](https://github.com/Hieng1999/lao-subtitles)** — finished subtitle files, free to download.
+
+Corrections from native Lao speakers are always welcome 🙏
